@@ -1,0 +1,10 @@
+freqtrade_env/
+__pycache__/
+*.pyc
+user_data/logs/
+user_data/data/
+user_data/backtest_results/
+user_data/*.sqlite
+user_data/*.sqlite-journal
+.env
+*.json.bak
